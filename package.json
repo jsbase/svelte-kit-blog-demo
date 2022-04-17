@@ -11,7 +11,7 @@
 		"@sveltejs/adapter-node": "next",
 		"@sveltejs/adapter-static": "^1.0.0-next.0",
 		"@sveltejs/kit": "next",
-		"dayjs": "^1.10.4",
+		"dayjs": "^1.10.8",
 		"js-yaml": "^3.14.1",
 		"rehype-highlight": "^4.1.0",
 		"rehype-stringify": "^8.0.0",
