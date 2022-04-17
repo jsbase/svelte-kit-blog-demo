@@ -11,7 +11,7 @@
 		"@sveltejs/adapter-node": "next",
 		"@sveltejs/adapter-static": "^1.0.0-next.0",
 		"@sveltejs/kit": "next",
-		"dayjs": "^1.10.4",
+		"dayjs": "^1.10.8",
 		"js-yaml": "^3.14.1",
 		"rehype-highlight": "^4.1.0",
 		"rehype-stringify": "^8.0.0",
@@ -21,10 +21,10 @@
 		"remark-rehype": "^8.0.0",
 		"sass": "^1.49.9",
 		"svelte": "^3.29.0",
-		"svelte-preprocess": "^4.0.0",
+		"svelte-preprocess": "^4.10.4",
 		"to-vfile": "^6.1.0",
 		"unified": "^9.2.1",
-		"vite": "^2.1.0"
+		"vite": "^2.8.6"
 	},
 	"type": "module"
 }
