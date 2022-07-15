@@ -20,7 +20,7 @@
 		"remark-parse": "^9.0.0",
 		"remark-rehype": "^8.0.0",
     "sass": "^1.49.9",
-		"svelte": "^3.46.4",
+		"svelte": "^3.49.0",
 		"svelte-preprocess": "^4.10.4",
 		"to-vfile": "^6.1.0",
 		"unified": "^9.2.1",
